@@ -10,10 +10,10 @@ v1.6.0 · 关山粮道 · 作者 Fog · 适配 Unciv 4.22.13
 
 1. 打开 Unciv 主菜单的 **模组（Mods）**，搜索 **Hanzhong Trapped Dragon** 或 **汉中困龙**。
 2. 如果搜索暂未显示，选择 **从网址下载模组（Download mod from URL）**，粘贴：
-   `https://github.com/Done486/Hanzhong-Trapped-Dragon`
+   `https://github.com/Fog486/Hanzhong-Trapped-Dragon`
 3. 下载后重新进入新建游戏，将**基础规则集**设为 **汉中困龙**，再按下方说明选择 Scenario。
 
-已在 Unciv **4.22.13** 验证。模组包含完整规则与打包图集，无需其他模组。发布版本：[v1.6.0](https://github.com/Done486/Hanzhong-Trapped-Dragon/releases/tag/v1.6.0)；更新记录：[CHANGELOG.md](docs/CHANGELOG.md)。
+已在 Unciv **4.22.13** 验证。模组包含完整规则与打包图集，无需其他模组。发布版本：[v1.6.0](https://github.com/Fog486/Hanzhong-Trapped-Dragon/releases/tag/v1.6.0)；更新记录：[CHANGELOG.md](docs/CHANGELOG.md)。
 
 手动安装时，将整个文件夹放入游戏的 `mods` 目录，并命名为 **Hanzhong Trapped Dragon**（单词间为空格），确保直接存在 `mods/Hanzhong Trapped Dragon/jsons/`。
 
