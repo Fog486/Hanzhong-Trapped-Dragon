@@ -1,0 +1,139 @@
+
+Honors.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+UnitPromotionIcons/HX Strategy I
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/HX Strategy II
+  rotate: false
+  xy: 80, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/HX March I
+  rotate: false
+  xy: 156, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/HX March II
+  rotate: false
+  xy: 232, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/FK Siege I
+  rotate: false
+  xy: 308, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/FK Siege II
+  rotate: false
+  xy: 384, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/FK Pursuit I
+  rotate: false
+  xy: 4, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/FK Pursuit II
+  rotate: false
+  xy: 80, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/CC Hold I
+  rotate: false
+  xy: 156, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/CC Hold II
+  rotate: false
+  xy: 232, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/CC Endurance I
+  rotate: false
+  xy: 308, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/CC Endurance II
+  rotate: false
+  xy: 384, 80
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/ZH Hold I
+  rotate: false
+  xy: 4, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/ZH Hold II
+  rotate: false
+  xy: 80, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/ZH Counter I
+  rotate: false
+  xy: 156, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/ZH Counter II
+  rotate: false
+  xy: 232, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Council Field Drill
+  rotate: false
+  xy: 308, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Council Field Medicine
+  rotate: false
+  xy: 384, 156
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Council Battle Resolve
+  rotate: false
+  xy: 4, 232
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

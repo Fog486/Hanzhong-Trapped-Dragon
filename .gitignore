@@ -1,0 +1,9 @@
+# Local saves and development files do not belong in the published mod.
+SaveFiles/
+MultiplayerFiles/
+GameSettings.json
+*.log
+*.tmp
+*.class
+Thumbs.db
+.DS_Store

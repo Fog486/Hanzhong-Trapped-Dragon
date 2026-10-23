@@ -1,0 +1,105 @@
+
+UI.png
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Skins/HanCourt/Frame
+  rotate: false
+  xy: 108, 60
+  size: 64, 64
+  split: 16, 16, 16, 16
+  pad: 8, 8, 8, 8
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/Menu
+  rotate: false
+  xy: 180, 60
+  size: 64, 64
+  split: 16, 16, 16, 16
+  pad: 12, 12, 12, 12
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/Panel
+  rotate: false
+  xy: 4, 28
+  size: 96, 96
+  split: 24, 24, 24, 24
+  pad: 16, 16, 16, 16
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/Strip
+  rotate: false
+  xy: 4, 8
+  size: 12, 12
+  split: 3, 3, 3, 3
+  pad: 1, 1, 1, 1
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/Veil
+  rotate: false
+  xy: 324, 100
+  size: 24, 24
+  split: 6, 6, 6, 6
+  pad: 2, 2, 2, 2
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/checkbox
+  rotate: false
+  xy: 324, 68
+  size: 24, 24
+  split: 6, 6, 6, 6
+  pad: 5, 5, 5, 5
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/checkbox-pressed
+  rotate: false
+  xy: 164, 28
+  size: 24, 24
+  split: 6, 6, 6, 6
+  pad: 5, 5, 5, 5
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/rectangleWithOutline
+  rotate: false
+  xy: 252, 60
+  size: 64, 64
+  split: 16, 16, 16, 16
+  pad: 10, 10, 10, 10
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/roundedEdgeRectangle
+  rotate: false
+  xy: 108, 4
+  size: 48, 48
+  split: 12, 12, 12, 12
+  pad: 9, 9, 9, 9
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/select-box
+  rotate: false
+  xy: 108, 4
+  size: 48, 48
+  split: 12, 12, 12, 12
+  pad: 8, 8, 8, 8
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Skins/HanCourt/select-box-pressed
+  rotate: false
+  xy: 108, 4
+  size: 48, 48
+  split: 12, 12, 12, 12
+  pad: 8, 8, 8, 8
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

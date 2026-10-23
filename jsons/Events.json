@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Han War Council",
+    "text": "Council text",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Council assault",
+        "uniques": [
+          "Free [Han Vanguard] appears <hidden from users>",
+          "Free [Han Field Crossbow] appears <hidden from users>"
+        ],
+        "keyShortcut": "1"
+      },
+      {
+        "text": "Council flank",
+        "uniques": [
+          "[2] free [Mountain Guide] units appear <hidden from users>",
+          "Gain [40] [Gold] <hidden from users>"
+        ],
+        "keyShortcut": "2"
+      },
+      {
+        "text": "Council economy",
+        "uniques": [
+          "Gain a free [Shu Granary] [in all cities] <hidden from users>",
+          "Gain [60] [Gold] <hidden from users>"
+        ],
+        "keyShortcut": "3"
+      }
+    ]
+  },
+  {
+    "name": "City Sites Briefing",
+    "text": "City sites briefing text",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "City sites briefing accept",
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "name": "Campaign Council I",
+    "text": "",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "Council I Title",
+        "centered": true,
+        "color": "#E7C47F",
+        "header": 2
+      },
+      {
+        "extraImage": "Council-Table",
+        "imageSize": 420
+      },
+      {
+        "text": "Council I Subtitle",
+        "centered": true,
+        "color": "#B5C1B7",
+        "size": 15
+      },
+      {
+        "text": "Council I Body",
+        "size": 16
+      }
+    ],
+    "choices": [
+      {
+        "text": "Council I Muster Han",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [0]>",
+          "Only available <when above [59] [Gold]>",
+          "Only available <for [Han] Civilizations>",
+          "Gain [-60] [Gold] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Free [Han Vanguard] appears <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Set [Campaign Council Record] to [1] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council I Muster Han detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council I Muster Qin",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [0]>",
+          "Only available <when above [59] [Gold]>",
+          "Unavailable <for [Han] Civilizations>",
+          "Gain [-60] [Gold] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Free [Swordsman] appears <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Set [Campaign Council Record] to [1] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council I Muster Qin detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council I Drill",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [0]>",
+          "[{Military} {Land}] units gain the [Council Field Drill] promotion <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Set [Campaign Council Record] to [1] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council I Drill detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council I Funds",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [0]>",
+          "Gain [50] [Gold] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>",
+          "Set [Campaign Council Record] to [1] <when number of [Campaign Council Record] is equal to [0]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council I Funds detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Campaign Council II",
+    "text": "",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "Council II Title",
+        "centered": true,
+        "color": "#E7C47F",
+        "header": 2
+      },
+      {
+        "extraImage": "Council-Table",
+        "imageSize": 420
+      },
+      {
+        "text": "Council II Subtitle",
+        "centered": true,
+        "color": "#B5C1B7",
+        "size": 15
+      },
+      {
+        "text": "Council II Body",
+        "size": 16
+      }
+    ],
+    "choices": [
+      {
+        "text": "Council II Siege",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [1]>",
+          "Only available <when above [89] [Gold]>",
+          "Gain [-90] [Gold] <when number of [Campaign Council Record] is equal to [1]> <hidden from users>",
+          "Free [Catapult] appears <when number of [Campaign Council Record] is equal to [1]> <hidden from users>",
+          "Set [Campaign Council Record] to [2] <when number of [Campaign Council Record] is equal to [1]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council II Siege detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council II Medicine",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [1]>",
+          "[{Military} {Land}] units gain the [Council Field Medicine] promotion <when number of [Campaign Council Record] is equal to [1]> <hidden from users>",
+          "Set [Campaign Council Record] to [2] <when number of [Campaign Council Record] is equal to [1]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council II Medicine detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council II Funds",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [1]>",
+          "Gain [80] [Gold] <when number of [Campaign Council Record] is equal to [1]> <hidden from users>",
+          "Set [Campaign Council Record] to [2] <when number of [Campaign Council Record] is equal to [1]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council II Funds detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Campaign Council III",
+    "text": "",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "text": "Council III Title",
+        "centered": true,
+        "color": "#E7C47F",
+        "header": 2
+      },
+      {
+        "extraImage": "Council-Table",
+        "imageSize": 420
+      },
+      {
+        "text": "Council III Subtitle",
+        "centered": true,
+        "color": "#B5C1B7",
+        "size": 15
+      },
+      {
+        "text": "Council III Body",
+        "size": 16
+      }
+    ],
+    "choices": [
+      {
+        "text": "Council III Reinforce Han",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [2]>",
+          "Only available <when above [119] [Gold]>",
+          "Only available <for [Han] Civilizations>",
+          "Gain [-120] [Gold] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Free [Han Vanguard] appears <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Free [Han Field Crossbow] appears <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Set [Campaign Council Record] to [3] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council III Reinforce Han detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council III Reinforce Qin",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [2]>",
+          "Only available <when above [119] [Gold]>",
+          "Unavailable <for [Han] Civilizations>",
+          "Gain [-120] [Gold] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Free [Swordsman] appears <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Free [Composite Bowman] appears <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Set [Campaign Council Record] to [3] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council III Reinforce Qin detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council III Resolve",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [2]>",
+          "[{Military} {Land}] units gain the [Council Battle Resolve] promotion <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Set [Campaign Council Record] to [3] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council III Resolve detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      },
+      {
+        "text": "Council III Funds",
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [2]>",
+          "Gain [120] [Gold] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>",
+          "Set [Campaign Council Record] to [3] <when number of [Campaign Council Record] is equal to [2]> <hidden from users>"
+        ],
+        "civilopediaText": [
+          {
+            "text": "Council III Funds detail",
+            "color": "#E6D8B5",
+            "size": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Council Dispatch I",
+    "text": "",
+    "presentation": "None",
+    "choices": [
+      {
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [0]> <when number of [Campaign Council Dispatch] is equal to [0]>",
+          "Set [Campaign Council Dispatch] to [1] <hidden from users>",
+          "Triggers a [Campaign Council I] event <when number of [Campaign Council Record] is equal to [0]> <hidden from users>"
+        ],
+        "text": "Council dispatch accept"
+      }
+    ]
+  },
+  {
+    "name": "Council Dispatch II",
+    "text": "",
+    "presentation": "None",
+    "choices": [
+      {
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [1]> <when number of [Campaign Council Dispatch] is equal to [1]>",
+          "Set [Campaign Council Dispatch] to [2] <hidden from users>",
+          "Triggers a [Campaign Council II] event <when number of [Campaign Council Record] is equal to [1]> <hidden from users>"
+        ],
+        "text": "Council dispatch accept"
+      }
+    ]
+  },
+  {
+    "name": "Council Dispatch III",
+    "text": "",
+    "presentation": "None",
+    "choices": [
+      {
+        "uniques": [
+          "Only available <when number of [Campaign Council Record] is equal to [2]> <when number of [Campaign Council Dispatch] is equal to [2]>",
+          "Set [Campaign Council Dispatch] to [3] <hidden from users>",
+          "Triggers a [Campaign Council III] event <when number of [Campaign Council Record] is equal to [2]> <hidden from users>"
+        ],
+        "text": "Council dispatch accept"
+      }
+    ]
+  },
+  {
+    "name": "Campaign Routes Briefing",
+    "text": "",
+    "presentation": "Alert",
+    "civilopediaText": [
+      {
+        "color": "#E7C47F",
+        "header": 2,
+        "text": "Campaign Routes Title",
+        "centered": true
+      },
+      {
+        "extraImage": "Campaign-Routes",
+        "imageSize": 520
+      },
+      {
+        "text": "Campaign Routes Briefing text",
+        "size": 16
+      }
+    ],
+    "choices": [
+      {
+        "text": "Campaign Routes Briefing accept",
+        "uniques": []
+      }
+    ]
+  }
+]

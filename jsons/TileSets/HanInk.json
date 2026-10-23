@@ -1,0 +1,11 @@
+{
+  "useColorAsBaseTerrain": false,
+  "fallbackTileSet": "HexaRealm",
+  "fogOfWarColor": {
+    "r": 0.24,
+    "g": 0.29,
+    "b": 0.24,
+    "a": 1
+  },
+  "tileScale": 1
+}

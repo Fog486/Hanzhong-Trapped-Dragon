@@ -1,0 +1,118 @@
+
+Generals.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+TileSets/HanInk/Units/Han Xin - Commander
+  rotate: false
+  xy: 4, 4
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+UnitPortraits/Han Xin - Commander
+  rotate: false
+  xy: 4, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Han Xin - Commander
+  rotate: false
+  xy: 4, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Han Xin - Commander
+  rotate: false
+  xy: 4, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Units/Fan Kuai - Vanguard
+  rotate: false
+  xy: 140, 4
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fan Kuai - Vanguard
+  rotate: false
+  xy: 140, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Fan Kuai - Vanguard
+  rotate: false
+  xy: 140, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Fan Kuai - Vanguard
+  rotate: false
+  xy: 140, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Units/Cao Can - Veteran
+  rotate: false
+  xy: 276, 4
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+UnitPortraits/Cao Can - Veteran
+  rotate: false
+  xy: 276, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Cao Can - Veteran
+  rotate: false
+  xy: 276, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Cao Can - Veteran
+  rotate: false
+  xy: 276, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Units/Zhang Han - Defender
+  rotate: false
+  xy: 412, 4
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+UnitPortraits/Zhang Han - Defender
+  rotate: false
+  xy: 412, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Zhang Han - Defender
+  rotate: false
+  xy: 412, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Zhang Han - Defender
+  rotate: false
+  xy: 412, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

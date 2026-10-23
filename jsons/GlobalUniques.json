@@ -1,0 +1,13 @@
+{
+  "uniques": [
+    "[+4 Happiness]",
+    "[+10] HP when healing <for [Land] units> <in [South Road Station] tiles>",
+    "[+1] Movement <for [Land] units> <in [South Road Station] tiles>",
+    "[+10] HP when healing <for [Land] units> <in [North Road Station] tiles>",
+    "[+1] Movement <for [Land] units> <in [North Road Station] tiles>",
+    "[+10] HP when healing <for [Land] units> <in [Southern Plank Station] tiles>",
+    "[+1] Movement <for [Land] units> <in [Southern Plank Station] tiles>",
+    "[+10] HP when healing <for [Land] units> <in [Northern Plank Station] tiles>",
+    "[+1] Movement <for [Land] units> <in [Northern Plank Station] tiles>"
+  ]
+}

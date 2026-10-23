@@ -1,0 +1,258 @@
+
+Logistics.png
+size: 2048, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+TileSets/HanInk/Tiles/Qinling Main Pass
+  rotate: false
+  xy: 4, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Qinling Main Pass
+  rotate: false
+  xy: 4, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Qinling Main Pass
+  rotate: false
+  xy: 812, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Qinling Main Pass
+  rotate: false
+  xy: 812, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Western Mountain Pass
+  rotate: false
+  xy: 288, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Western Mountain Pass
+  rotate: false
+  xy: 204, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Western Mountain Pass
+  rotate: false
+  xy: 916, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Western Mountain Pass
+  rotate: false
+  xy: 916, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/South Road Station
+  rotate: false
+  xy: 572, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/South Road Station
+  rotate: false
+  xy: 404, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/South Road Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/South Road Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/North Road Station
+  rotate: false
+  xy: 572, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/North Road Station
+  rotate: false
+  xy: 404, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/North Road Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/North Road Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Southern Plank Station
+  rotate: false
+  xy: 572, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Southern Plank Station
+  rotate: false
+  xy: 404, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Southern Plank Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Southern Plank Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Northern Plank Station
+  rotate: false
+  xy: 572, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Northern Plank Station
+  rotate: false
+  xy: 404, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Northern Plank Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Northern Plank Station
+  rotate: false
+  xy: 1020, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/South Road Station-Pillaged
+  rotate: false
+  xy: 856, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/South Road Station-Pillaged
+  rotate: false
+  xy: 604, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/South Road Station-Pillaged
+  rotate: false
+  xy: 1124, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/North Road Station-Pillaged
+  rotate: false
+  xy: 856, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/North Road Station-Pillaged
+  rotate: false
+  xy: 604, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/North Road Station-Pillaged
+  rotate: false
+  xy: 1124, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Southern Plank Station-Pillaged
+  rotate: false
+  xy: 856, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Southern Plank Station-Pillaged
+  rotate: false
+  xy: 604, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Southern Plank Station-Pillaged
+  rotate: false
+  xy: 1124, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Northern Plank Station-Pillaged
+  rotate: false
+  xy: 856, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Northern Plank Station-Pillaged
+  rotate: false
+  xy: 604, 256
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Northern Plank Station-Pillaged
+  rotate: false
+  xy: 1124, 272
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

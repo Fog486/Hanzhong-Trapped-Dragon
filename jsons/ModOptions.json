@@ -1,0 +1,13 @@
+{
+  "isBaseRuleset": true,
+  "author": "Fog",
+  "lastUpdated": "2026-10-24T00:00:00Z",
+  "tileset": "HanInk",
+  "uniques": [
+    "Disable religion",
+    "Diplomatic relationships cannot change"
+  ],
+  "unitset": "HanInk",
+  "modUrl": "https://github.com/Done486/Hanzhong-Trapped-Dragon",
+  "defaultBranch": "main"
+}

@@ -1,0 +1,62 @@
+
+TerritoryBorders.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+TileSets/HanInk/Borders/ConcaveInner
+  rotate: false
+  xy: 4, 4
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConcaveOuter
+  rotate: false
+  xy: 336, 4
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConvexInner
+  rotate: false
+  xy: 668, 4
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConvexOuter
+  rotate: false
+  xy: 4, 72
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 336, 72
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 668, 72
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 4, 140
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 336, 140
+  size: 324, 60
+  orig: 324, 60
+  offset: 0, 0
+  index: -1

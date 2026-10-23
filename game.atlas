@@ -1,0 +1,237 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ConstructionIcons/Pass Arsenal
+  rotate: false
+  xy: 992, 476
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Qin Beacon
+  rotate: false
+  xy: 1412, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Shu Granary
+  rotate: false
+  xy: 1548, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Di
+  rotate: false
+  xy: 1140, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Han
+  rotate: false
+  xy: 856, 476
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Han Seat
+  rotate: false
+  xy: 856, 476
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Sai
+  rotate: false
+  xy: 992, 340
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Yong
+  rotate: false
+  xy: 1684, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Crosshair
+  rotate: false
+  xy: 4, 748
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/CrosshatchHexagon
+  rotate: false
+  xy: 4, 500
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Hexagon
+  rotate: false
+  xy: 572, 748
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Highlight
+  rotate: false
+  xy: 4, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Grassland
+  rotate: false
+  xy: 288, 748
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Grassland+Forest
+  rotate: false
+  xy: 4, 252
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Grassland+Hill
+  rotate: false
+  xy: 288, 500
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Mountain
+  rotate: false
+  xy: 288, 252
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Plains
+  rotate: false
+  xy: 572, 500
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Plains+Forest
+  rotate: false
+  xy: 856, 748
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/Tiles/Plains+Hill
+  rotate: false
+  xy: 288, 4
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+TileSets/HanInk/UnexploredTile
+  rotate: false
+  xy: 572, 252
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+UnitIcons/Han Field Crossbow
+  rotate: false
+  xy: 992, 612
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Han Field Crossbow
+  rotate: false
+  xy: 992, 612
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Han Vanguard
+  rotate: false
+  xy: 1276, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Han Vanguard
+  rotate: false
+  xy: 1276, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Mountain Guide
+  rotate: false
+  xy: 856, 340
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Mountain Guide
+  rotate: false
+  xy: 856, 340
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Nanzheng Treasury
+  rotate: false
+  xy: 856, 476
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Mianxian Plank Road Depot
+  rotate: false
+  xy: 1548, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Chencang Forward Camp
+  rotate: false
+  xy: 1548, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Meixian Passworks
+  rotate: false
+  xy: 1412, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Feiqiu Arsenal
+  rotate: false
+  xy: 992, 476
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Liyang Grain Market
+  rotate: false
+  xy: 992, 340
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Gaonu Horse Pastures
+  rotate: false
+  xy: 1140, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

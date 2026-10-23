@@ -1,0 +1,34 @@
+
+Leaders.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+LeaderIcons/Dong Yi
+  rotate: false
+  xy: 4, 4
+  size: 470, 470
+  orig: 470, 470
+  offset: 0, 0
+  index: -1
+LeaderIcons/Liu Bang
+  rotate: false
+  xy: 482, 4
+  size: 470, 470
+  orig: 470, 470
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sima Xin
+  rotate: false
+  xy: 960, 4
+  size: 470, 470
+  orig: 470, 470
+  offset: 0, 0
+  index: -1
+LeaderIcons/Zhang Han
+  rotate: false
+  xy: 1438, 4
+  size: 470, 470
+  orig: 470, 470
+  offset: 0, 0
+  index: -1
